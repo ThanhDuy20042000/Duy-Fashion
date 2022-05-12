@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Flatsome\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06 06:44+0000\n"
-"PO-Revision-Date: 2022-05-06 06:50+0000\n"
+"PO-Revision-Date: 2022-05-11 05:03+0000\n"
 "Last-Translator: \n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
@@ -797,7 +797,7 @@ msgstr ""
 
 #: inc/extensions/flatsome-wc-quick-view/flatsome-quick-view.php:15
 msgid "Quick View"
-msgstr ""
+msgstr "Xem qua"
 
 #: inc/integrations/wc-yith-wishlist/yith-wishlist.php:61
 #: inc/integrations/wc-yith-wishlist/yith-wishlist.php:82
